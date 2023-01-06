@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1672893560 source:c:\vira\kuliiiah\semester 3\struktur data - praktikum\tubes\main.cpp
+	"tubes.h"
+	<iostream>
+
+1672893560 c:\vira\kuliiiah\semester 3\struktur data - praktikum\tubes\tubes.h
+	<iostream>
+
+1672893541 source:c:\vira\kuliiiah\semester 3\struktur data - praktikum\tubes\tubes.cpp
+	"tubes.h"
+
+1672927466 source:c:\users\salsabila r\downloads\tubes_std\tubes\main.cpp
+	"tubes.h"
+	<iostream>
+
+1672929242 c:\users\salsabila r\downloads\tubes_std\tubes\tubes.h
+	<iostream>
+
+1672927350 source:c:\users\salsabila r\downloads\tubes_std\tubes\tubes.cpp
+	"tubes.h"
+
+1672995358 source:c:\vira\kuliiiah\semester 3\struktur data - praktikum\ini tubes\tubes\main.cpp
+	"tubes.h"
+	<iostream>
+
+1673000880 c:\vira\kuliiiah\semester 3\struktur data - praktikum\ini tubes\tubes\tubes.h
+	<iostream>
+
+1673000835 source:c:\vira\kuliiiah\semester 3\struktur data - praktikum\ini tubes\tubes\tubes.cpp
+	"tubes.h"
+
