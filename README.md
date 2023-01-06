@@ -1,4 +1,4 @@
 # Project-Manager_STD
 
-Elvira Wulandari
+Elvira Wulandari - 
 I can make basic programs using Python and C++ language.
